@@ -1,0 +1,2 @@
+Git es un sistema de control de versiones ideado por Linux 
+Torvalds. 3. Añadir los cambios a la zona de intercambio temporal. 
